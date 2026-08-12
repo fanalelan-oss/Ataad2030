@@ -1,0 +1,19 @@
+{
+  "name": "عتاد | تأجير المعدات الثقيلة والرافعات بالرياض",
+  "short_name": "عتاد",
+  "description": "شركة عتاد لحلول النقل وتأجير المعدات الثقيلة، الرافعات الشوكية، الكرينات، ودينات الونش بالرياض 24/7",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#f59e0b",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

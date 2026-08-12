@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "ataad2030",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
