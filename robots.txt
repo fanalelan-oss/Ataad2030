@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /thank-you
 
-Sitemap: https://ataad.sa/sitemap.xml
+Sitemap: https://ataad2030.web.app/sitemap.xml
