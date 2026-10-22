@@ -1,0 +1,6 @@
+.firebase/
+firebase-debug.log
+*.log
+*.zip
+.DS_Store
+Thumbs.db

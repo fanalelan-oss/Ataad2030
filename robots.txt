@@ -3,3 +3,4 @@ Allow: /
 Disallow: /thank-you
 
 Sitemap: https://ataad2030.web.app/sitemap.xml
+Sitemap: https://ataad2030.web.app/sitemap.txt
